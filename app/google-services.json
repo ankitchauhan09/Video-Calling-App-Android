@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "360174162350",
+    "firebase_url": "https://webrtc-18036-default-rtdb.firebaseio.com",
+    "project_id": "webrtc-18036",
+    "storage_bucket": "webrtc-18036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360174162350:android:5064cd874c456db7a2383f",
+        "android_client_info": {
+          "package_name": "com.example.webrtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyoyod7MbjCU94P-rzrup3GveAY2Xe8eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360174162350:android:0894aab5af6a7a85a2383f",
+        "android_client_info": {
+          "package_name": "com.example.webrtc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyoyod7MbjCU94P-rzrup3GveAY2Xe8eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
